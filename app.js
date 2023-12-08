@@ -2,9 +2,9 @@ const express = require("express");
 const axios = require("axios");
 const moment = require("moment");
 const app = express();
+require("dotenv").config();
 const port = process.env.PORT;
 const apiUrl = process.env.API_URL;
-require("dotenv").config();
 app.use(express.json());
 
 app.post("/recommendations", async (req, res) => {
