@@ -61,3 +61,7 @@ function getRecommendations(genre, time, moviesData) {
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
+module.exports = {
+  getRecommendations
+  
+};
