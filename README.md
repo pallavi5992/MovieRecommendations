@@ -43,3 +43,7 @@ If there are no suitable recommendations, the server will respond with a message
   "message": "No movie recommendations"
 }
 
+Unit Test case:
+To test unit test case kill the running server if its in running mode
+command to run test cases in node:
+npm test
