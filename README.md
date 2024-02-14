@@ -153,3 +153,9 @@ ROLE & RESPOSIBILITIES:
 5. DEVELOPING BACKEND components to enhance performance  and server side logic
 6. Contribute in regular team meetings.
 7. wroking closly with frontend developer to devlop and improve the user interfrence and integrate  the APIs
+
+   Planing -> Desiging -> Developing -> Testing -> Deploying -> Reviewing -> launching
+
+This process keep on repeating after receiving the feedback from customer end or the client end.
+AFTER feedback  we plan for next sprint or next  devlopment lifecycle
+Jira : Product management tool OR  track project work status, track bug and issues, team work and time tracking.
