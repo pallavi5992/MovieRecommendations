@@ -130,3 +130,26 @@ describe("DELETE /api/products/:id", () => {
 We use describe to describe the unit test. Even though it is not required, it will be useful to identify tests in test results.
 In it, we write the actual test code. Tell what the test performs in the first argument, and then in the second argument, write a callback function that contains the test code.
 In the callback function, the request is sent to the endpoint first, and the expected and actual responses are then compared. The test passes if both answers match, else, it fails. 
+
+
+const http = require('http')
+const server = http.createServer((req,res)=>{
+res.write('hello')
+res.end
+})
+server.listen(9000)
+
+
+
+
+I HAVE THE SKILLS AND EXPERICENCE that are looking for, ESpecially in regularly representing to the client.
+In my perivous role I delivered client presentation regularly.
+
+ROLE & RESPOSIBILITIES:
+1. I contibute to analysis and design of new requirements and  bug fixes.
+2. I  involved in the direct client intraction for providing changes requests and requirements.
+3. I involved in  SDLC
+4. I am responsibler for handling the day to day issues and fine tunning the ENCHANCE performance.
+5. DEVELOPING BACKEND components to enhance performance  and server side logic
+6. Contribute in regular team meetings.
+7. wroking closly with frontend developer to devlop and improve the user interfrence and integrate  the APIs
